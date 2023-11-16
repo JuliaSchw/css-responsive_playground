@@ -126,8 +126,3 @@ h1 {
     background-color: black;
   }
 }
-
-@media screen and (min-width: 559px) {
-  .box--five {
-  }
-}
